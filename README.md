@@ -1,6 +1,6 @@
 # Data Visualization and Management Application
 
-Built a single-page application (SPA) that serves as a data visualization and management tool. The application should allow users to visualize data in the form of graphs and tables, along with providing features for data manipulation and comparison.
+Built a single-page application (SPA) that serves as a data visualization and management tool. The application allows users to visualize data in the form of graphs and tables, along with providing features for data manipulation and comparison.
 
 # Table Management
 
